@@ -1,0 +1,89 @@
+/* CSS Document */
+.style3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+}
+a:link {
+	color: #FF6600;
+	text-decoration: none;
+}
+a:visited {
+	color: #B04600;
+	text-decoration: none;
+}
+a:hover {
+	color: #B04600;
+	text-decoration: underline;
+}
+a:active {
+	color: #FF6600;
+	text-decoration: none;
+}
+.peque {
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.norm {
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.big {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+}
+img {
+	behavior:	url("pngbehavior.htc");
+}
+.orange {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #E17100;
+}
+.biga {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #FF6600;
+}
+.gray_tits {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bolder;
+	color: #666666;
+}
+.tit_tk {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.white_tits_order {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #FFFFFF;
+}
+.tutilillos {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  height:99%; width:150px;
+  color:#336699; 
+  border-color:#B8C4F8; 
+  border-style:solid; 
+  border-width:1px; 
+  background-color:#D6E2FA
+}
+.pequenito {
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  height:99%; width:150px;
+  color:#999999; 
+  border-color:#EBEBEB; 
+  border-style:solid; 
+  border-width:1px; 
+  float:left; 
+  background-color:#FFFFFF
+}
